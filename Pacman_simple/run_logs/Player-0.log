@@ -1,0 +1,516 @@
+Mono path[0] = '/content/Pacman/pacman_Data/Managed'
+Mono config path = '/content/Pacman/pacman_Data/MonoBleedingEdge/etc'
+PlayerConnection initialized from /content/Pacman/pacman_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55199
+Multi-casting "[IP] 172.28.0.2 [Port] 55199 [Flags] 19 [Guid] 720337890 [EditorId] 4106107292 [Version] 1048832 [Id] LinuxPlayer(172.28.0.2) [Debug] 1 [PackageName] LinuxPlayer [ProjectName] pacman" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55199]...
+Remaining time:8s
+Remaining time:7s
+Remaining time:6s
+Remaining time:5s
+Remaining time:4s
+Remaining time:3s
+Remaining time:2s
+Remaining time:1s
+Remaining time:0s
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55199]
+Starting managed debugger on port 56890
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=0.0.0.0:56890
+Preloaded 'lib_burst_generated.so'
+Preloaded 'libgrpc_csharp_ext.x64.so'
+PlayerConnection already initialized - listening to [0.0.0.0:55199]
+Initialize engine version: 2019.4.20f1 (6dd1c08eedfa)
+[Subsystems] Discovering subsystems at path /content/Pacman/pacman_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+Symbol file data-0x56323a762000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.AIModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a5d2600 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.AccessibilityModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a77e000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.AndroidJNIModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a7a8000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.AnimationModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a601000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.AssetBundleModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a7c2000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.AudioModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a4f8d00 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.ClothModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a54d600 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.ClusterInputModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a7da000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.ClusterRendererModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a8d4000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.CoreModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a5f5e00 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.CrashReportingModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a5d2600 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.DSPGraphModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a5d2600 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.DirectorModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a7d2400 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.GameCenterModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a8e6000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.GridModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a630240 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.HotReloadModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a916000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.IMGUIModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a5e4b00 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.ImageConversionModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a5d2c00 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.InputModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a5d9000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.InputLegacyModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a93a000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.JSONSerializeModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a940000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.LocalizationModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a96c000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.ParticleSystemModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a5421a0 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.PerformanceReportingModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a96c000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.PhysicsModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a9a2000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.Physics2DModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a6300c0 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.ProfilerModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a5ce600 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.ScreenCaptureModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a7ac000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.SharedInternalsModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a503f40 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.SpriteMaskModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a50ae00 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.SpriteShapeModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a7da0f0 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.StreamingModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a617400 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.SubstanceModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a601000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.SubsystemsModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a630180 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.TLSModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a96c000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.TerrainModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a527440 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323aa1c000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.TextCoreModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a5da800 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.TextRenderingModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a5da800 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.TilemapModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a601000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.UIModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323aae6000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.UIElementsModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a916000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.UNETModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a630180 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.UmbraModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a636000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323aae6000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.UnityConnectModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a630180 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a9bf000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.UnityWebRequestModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a50ae00 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a5e4580 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323ab0a000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a70f200 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a636000 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.VFXModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a4e6200 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.VRModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a5e4580 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.VehiclesModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a70f200 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.VideoModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323a54dcc0 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.WindModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0x56323ab29400 doesn't match image /content/Pacman/pacman_Data/Managed/UnityEngine.XRModule.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+- Completed reload, in  0.078 seconds
+UnloadTime: 0.723727 ms
+Fallback handler could not load library /content/Pacman/pacman_Data/Mono/libcoreclr.so
+Fallback handler could not load library /content/Pacman/pacman_Data/Mono/libcoreclr.so
+Fallback handler could not load library /content/Pacman/pacman_Data/Mono/libcoreclr.so
+Fallback handler could not load library /content/Pacman/pacman_Data/Mono/libSystem.dylib
+Fallback handler could not load library /content/Pacman/pacman_Data/Mono/libSystem.dylib.so
+Fallback handler could not load library /content/Pacman/pacman_Data/Mono/libSystem.dylib
+Fallback handler could not load library /content/Pacman/pacman_Data/Mono/libcoreclr.so
+Fallback handler could not load library /content/Pacman/pacman_Data/Mono/libcoreclr.so
+Fallback handler could not load library /content/Pacman/pacman_Data/Mono/libcoreclr.so
+Fallback handler could not load library /content/Pacman/pacman_Data/Mono/libSystem.dylib
+Fallback handler could not load library /content/Pacman/pacman_Data/Mono/libSystem.dylib.so
+Fallback handler could not load library /content/Pacman/pacman_Data/Mono/libSystem.dylib
+VITTORIA EndEpisode = 3.374014 Chomp4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 2.375898 Chomp3
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 1.042513 Chomp9
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 0.9895508 Chomp5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 3.896062 Chomp9
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -0.8648233 Chomp7
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -0.8898859 Chomp2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 1.743502 Chomp3
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -1.518756 Chomp1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -2.18215 Chomp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -2.505188 Chomp8
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 3.464162 Chomp2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 3.512771 Chomp2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 1.045442 Chomp1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 0.005480766 Chomp3
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -2.311842 Chomp9
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -1.678547 Chomp7
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 2.686151 Chomp9
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -2.656321 Chomp
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -2.6851 Chomp8
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 1.946087 Chomp7
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -6.698102 Chomp5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -9.249538 Chomp4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 0.8671618 Chomp3
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 3.248263 Chomp9
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 2.897089 Chomp8
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 3.427301 Chomp5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -3.777567 Chomp2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 1.148332 Chomp3
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 0.6316648 Chomp5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 0.3762474 Chomp8
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -6.475878 Chomp1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -1.14239 Chomp9
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 1.10477 Chomp2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -1.873711 Chomp4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -2.23497 Chomp7
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 1.059239 Chomp3
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = 3.533769 Chomp7
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+VITTORIA EndEpisode = -20.59835 Chomp6
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PacmanAgent:OnTriggerEnter(Collider) (at C:\Users\franc\Documents\GitHub\Information-Visualization\pacman\Assets\PacmanAgent.cs:184)
+ 
+(Filename: C Line: 0)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 7f827ebae700 -> priority: 1 
+debugger-agent: Unable to listen on 11
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1613951130727,"processId":4167,"allocatedMemory":503956,"memoryLabels":[{"Permanent":40},{"Thread":128},{"Manager":1328},{"GfxDevice":64},{"Physics":32},{"Serialization":500424},{"String":228},{"PoolAlloc":56},{"GI":296},{"VR":2024},{"Subsystems":-664}]}

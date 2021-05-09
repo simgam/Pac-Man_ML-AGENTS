@@ -1,0 +1,48 @@
+{
+    "PacMan": {
+        "checkpoints": [
+            {
+                "steps": 499671,
+                "file_path": "results/Pacman_simple/PacMan/PacMan-499671.onnx",
+                "reward": null,
+                "creation_time": 1613943786.334263
+            },
+            {
+                "steps": 999800,
+                "file_path": "results/Pacman_simple/PacMan/PacMan-999800.onnx",
+                "reward": 0.6904753595590591,
+                "creation_time": 1613945616.6817782
+            },
+            {
+                "steps": 1499653,
+                "file_path": "results/Pacman_simple/PacMan/PacMan-1499653.onnx",
+                "reward": null,
+                "creation_time": 1613947403.731832
+            },
+            {
+                "steps": 1686614,
+                "file_path": "results/Pacman_simple/PacMan/PacMan-1686614.onnx",
+                "reward": null,
+                "creation_time": 1613948062.4249513
+            },
+            {
+                "steps": 1999442,
+                "file_path": "results/Pacman_simple/PacMan/PacMan-1999442.onnx",
+                "reward": null,
+                "creation_time": 1613950020.4839375
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1686614,
+            "file_path": "results/Pacman_simple/PacMan.onnx",
+            "reward": null,
+            "creation_time": 1613948062.4249513
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0+cu101",
+        "tensorflow_version": "2.2.0"
+    }
+}
